@@ -30,21 +30,21 @@ Recolect is a social media platform designed for collectors to share their colle
 
 1. **Clone the repository:**
 
-bash
-git clone https://github.com/your-username/recolect.git
-cd recolect
+bash\
+git clone https://github.com/your-username/recolect.git\
+cd recolect\
 
 2. **Install dependencies for both frontend and backend:**
 
-# Install frontend dependencies
+## Install frontend dependencies
 
-cd frontend
-npm install
+cd frontend\
+npm install\
 
-# Install backend dependencies
+## Install backend dependencies
 
-cd ../backend
-npm install
+cd ../backend\
+npm install\
 
 3. **Configure MongoDB:**
 
@@ -52,11 +52,11 @@ Update config.js in the backend/ directory with your MongoDB URI.
 
 4. **Start the application:**
 
-# Start frontend (from the 'frontend/' directory)
+## Start frontend (from the 'frontend/' directory)
 
 npm start
 
-# Start backend (from the 'backend/' directory)
+## Start backend (from the 'backend/' directory)
 
 npm start
 
