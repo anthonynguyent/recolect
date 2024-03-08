@@ -30,7 +30,6 @@ Recolect is a social media platform designed for collectors to share their colle
 
 1. **Clone the repository:**
 
-bash\
 git clone https://github.com/your-username/recolect.git\
 cd recolect\
 
@@ -39,12 +38,12 @@ cd recolect\
 ## Install frontend dependencies
 
 cd frontend\
-npm install\
+npm install
 
 ## Install backend dependencies
 
 cd ../backend\
-npm install\
+npm install
 
 3. **Configure MongoDB:**
 
