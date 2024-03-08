@@ -5,6 +5,9 @@ Recolect is a social media platform designed for collectors to share their colle
 ## Features
 
 -   **User Authentication:** Secure user registration and login system using bcrypt for password hashing and JWT for token-based authentication.
+
+-   ![sign up and log in](https://github.com/anthonynguyent/recolect/assets/54492419/a7d48386-b634-4f0f-906d-864252b01326)
+
 -   **Image Upload:** Users can upload images of their collectibles, with each image tied to the user who uploaded it.
 -   **Image Gallery:** Explore and view images uploaded by other users based on their profiles.
 -   **Image Deletion:** Securely delete uploaded images, ensuring only the owner can remove their content.
