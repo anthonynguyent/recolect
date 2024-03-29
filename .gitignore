@@ -25,4 +25,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # private photos in file system
-frontend/src/uploads/
+/frontend/src/uploads/
+/frontend/src/uploads/test
