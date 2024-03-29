@@ -16,7 +16,7 @@ Recolect is a social media platform designed for collectors to share their colle
 
    ![delete pictures](https://github.com/anthonynguyent/recolect/assets/54492419/2112ccc6-d677-44e7-a273-b2a1b5311ac7)
 
--   **Image Gallery:** Explore and view images uploaded by other users based on their profiles.
+-   **Image Gallery:** Explore and view images uploaded by other users based on their profiles. (Authentication prevents users from uploading and deleting images on other users' profiles.)
 
    ![view other profiles](https://github.com/anthonynguyent/recolect/assets/54492419/a065a7f5-fb8b-4a29-acd6-b6ccc80c9651)
 
